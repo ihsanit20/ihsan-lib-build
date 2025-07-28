@@ -1,1 +1,0 @@
-import{_ as o}from"./IncomeExpenseHeadList-7Eb-1M6j.js";import{x as t,o as e}from"./vue-D0mF8XVW.js";import"./HeaderWithButtons-Cm-cp0eq.js";import"./income-expense-head-ChOSN81B.js";import"./index-Ck0kI_ww.js";import"./vendor-BtuGy7By.js";const f={__name:"IncomeHeadView",setup(r){return(m,p)=>(e(),t(o,{type:"Income",title:"আয়ের খাত"}))}};export{f as default};

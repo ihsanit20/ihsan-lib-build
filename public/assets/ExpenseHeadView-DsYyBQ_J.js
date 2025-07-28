@@ -1,1 +1,0 @@
-import{_ as e}from"./IncomeExpenseHeadList-7Eb-1M6j.js";import{x as t,o}from"./vue-D0mF8XVW.js";import"./HeaderWithButtons-Cm-cp0eq.js";import"./income-expense-head-ChOSN81B.js";import"./index-Ck0kI_ww.js";import"./vendor-BtuGy7By.js";const f={__name:"ExpenseHeadView",setup(r){return(p,a)=>(o(),t(e,{type:"Expense",title:"ব্যয়ের খাত"}))}};export{f as default};
